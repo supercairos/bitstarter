@@ -6,7 +6,7 @@
     ".heading": true,
     ".logo": true,
     ".navigation": true,
-    ".order": true,
+    ".order": true, 
     ".pitch": true,
     ".section1": true,
     ".section2": true,
